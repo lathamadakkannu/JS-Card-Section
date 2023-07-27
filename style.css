@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom:10px;
+}
+.card-card{
+    border:1px solid black;
+    padding-left:5%;
+    padding-top: 2%;
+}
+
+/*.card-row{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.card-col{
+    width:33.33%;
+    padding:10px;
+}
+*/
+img{
+    width:90%;
+    padding-left:40px;    
+}
+.card-col p{
+    text-indent: 5%;
+    font-size:20px;
+    padding-top:10px;
+}
+.card-col h1{
+    text-align: center;
+    padding-top:10px;
+}
